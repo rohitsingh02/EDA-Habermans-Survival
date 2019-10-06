@@ -40,10 +40,9 @@ The dataset used in this project can be found in [haberman.csv](haberman.csv) da
 
 **Features**
 
-* There are 3 features 
-1. 30 - It represents age of patient at the time of operation(numerical) 
-2. 64 - It represents year of operation(numerical) 
-3. 1 - It tells no of +ve auxillry node detected(numerical) 
+* 30 - It represents age of patient at the time of operation(numerical) 
+* 64 - It represents year of operation(numerical) 
+* 1 - It tells no of +ve auxillry node detected(numerical) 
 
 
 **Target Variable**
