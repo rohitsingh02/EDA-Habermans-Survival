@@ -47,4 +47,3 @@ The dataset used in this project can be found in [haberman.csv](haberman.csv) da
 4. 1.1 - Survival status 1 = the patient survived 5 years or longer 2 = the patient died within 5 year
 
 
-### APPLIED-AI Assignment1
