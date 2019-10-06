@@ -1,6 +1,4 @@
-# EDA-Exploratory-Data-Analysis-
-Exploratory Data Analysis : Haberman's Survival
-
+# EDA-Haberman's Survival
 
 ### Install
 
